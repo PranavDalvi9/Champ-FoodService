@@ -1,5 +1,27 @@
-
 # Champ-FoodService
+
+# Features:-
+1. Created Flutter app by using MVVM Architecture.
+2. Used RiverPod for state management.
+3. Used HTTP package for api call.
+
+
+# Technologies that we used :-
+1. Flutter
+2. Dart
+
+
+## Contact
+
+Pranav Dalvi - [My Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi/)
+
+Project Demo Viedo Link - [Project Demo Viedo Link](https://drive.google.com/file/d/1u2cNAB1QowaeK5Ee8Xoq3ZX3Sh4SN_rj/view?usp=sharing)
+
+Project Apk Link - [Project Apk Link](https://drive.google.com/file/d/1Ad3vtUBMjm09BTJ8Q7b5RVtt2ew9Pdzz/view?usp=sharing)
+
+
+# Glimpse of Our Work:-
+
 
 
 
