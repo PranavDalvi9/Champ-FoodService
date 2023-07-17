@@ -11,9 +11,18 @@
 # Champ-FoodService
 
 ![Uploading home2.png…]()
+
 ![Uploading welcome.png…]()
 
 
+## Welcome Screen
+<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/Champ-FoodService/assets/96105012/56c7367b-6b4e-41e7-8890-07dac84fa590">
+
+## Home Screen
+<img width="25%" height="25%" alt="image" src="">
+
+## Home Screen
+<img width="25%" height="25%" alt="image" src="">
 
 
 ## Home Screen
