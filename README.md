@@ -1,18 +1,7 @@
 
-![Uploading featured.png…]()
-![Uploading orders.png…]()
-![Uploading welcome2.png…]()
-![Uploading signin.png…]()
-![Uploading detail2.png…]()
-![Uploading search.png…]()
-![Uploading welcome1.png…]()
-![Uploading signin-error.png…]()
-![Uploading details1.png…]()
 # Champ-FoodService
 
-![Uploading home2.png…]()
 
-![Uploading welcome.png…]()
 
 
 ## Welcome Screen
