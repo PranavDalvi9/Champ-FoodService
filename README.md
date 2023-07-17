@@ -24,9 +24,14 @@
 ## Home Screen
 <img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/Champ-FoodService/assets/96105012/168c96ef-8dca-4508-aa27-8baed1cc19ac">
 
-## Home Screen 2
 <img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/Champ-FoodService/assets/96105012/4ff80bd2-3836-450c-8bc8-737838166b98">
 
+
+
+
+## Details Screen
+<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/Champ-FoodService/assets/96105012/439921ab-b438-4332-988c-e02c5936ea5a">
+<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/Champ-FoodService/assets/96105012/d58aedca-c607-4b94-8108-e9cbaaa527a8">
 
 ## Search Screen
 <img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/Champ-FoodService/assets/96105012/500a6490-7119-4e47-8357-37707efb81dd">
