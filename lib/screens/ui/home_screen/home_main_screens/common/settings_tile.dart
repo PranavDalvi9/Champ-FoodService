@@ -1,4 +1,3 @@
-import 'package:champ_food_service/infrastructure/commons/constants/image_constants.dart';
 import 'package:champ_food_service/screens/common/app_text/app_text.dart';
 import 'package:champ_food_service/theme_extension.dart';
 import 'package:flutter/material.dart';
