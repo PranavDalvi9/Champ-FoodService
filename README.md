@@ -77,8 +77,9 @@ https://github.com/PranavDalvi9/Champ-FoodService/assets/96105012/d1a7ea12-a41e-
 
 
 
-
-
+## Commands to run 🏃‍♀️🏃‍♀️
+flutter pub get
+flutter run
 
 
 
